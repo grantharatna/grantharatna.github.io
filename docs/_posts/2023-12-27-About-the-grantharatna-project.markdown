@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Empowering Minds Through Books: A Pan-India Literary Initiative"
-date:   2023-12-28 21:44:49 +0530
+date:   2023-12-27 21:44:49 +0530
 categories: jekyll update
 ---
 
