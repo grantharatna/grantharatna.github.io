@@ -9,19 +9,19 @@ In our earnest endeavor to make a lasting impact on the lives of underprivileged
 
 ### A Platform of Threefold Impact
 
-#####i) Bridging the Educational Gap
+####i) Bridging the Educational Gap
 
 The primary focus of our platform is to provide underprivileged children with free access to a treasure trove of books. Enthusiastic volunteers, driven by a shared commitment to making a difference, list these books on our platform. We, in turn, take the responsibility of collecting these literary gems and distributing them to children in need. Our collaboration with NGOs and outreach to government schools ensures that the books find their way into the hands of those who stand to benefit the most. Moreover, schools are encouraged to engage directly with our platform, facilitating seamless requests for specific books or reading sessions tailored to their students' needs.
 
-#####ii) Fostering Personal Connections Through Reading Sessions
+####ii) Fostering Personal Connections Through Reading Sessions
 
 Beyond the act of donation, our platform promotes a unique opportunity for volunteers. Those who choose to donate books have the option to conduct reading sessions at government schools. This not only enhances the impact of the initiative but also fosters personal connections between the donors and the beneficiaries. Volunteers are also encouraged to contribute original works, such as short moral stories or poems, either already published or to-be-published by aspiring writers, further enriching the literary experience for the children.
 
-#####iii) Facilitating Book Exchange for a Wider Impact
+####iii) Facilitating Book Exchange for a Wider Impact
 
 Recognizing the diverse ways people wish to contribute, our platform accommodates those who want to lend or borrow books by providing a mechanism for transactions. Users can connect with lenders and borrowers, exchanging books for a nominal fee. This innovative approach not only supports the sustainability of our initiative but also encourages a culture of sharing and community building.
 
-#### A Gradual Expansion Towards a Pan-India Vision
+### A Gradual Expansion Towards a Pan-India Vision
 
 Our initial focus will be on specific localities and slums in Delhi, leveraging the support of our dedicated volunteers, particularly starting with students from the Cluster Innovation Centre (CIC) at the University of Delhi. As the initiative gains momentum, we aspire for it to evolve into a pan-India movement, reaching every corner of the country. We believe that education should know no boundaries, and our ambition reflects our commitment to making a nationwide impact.
 
