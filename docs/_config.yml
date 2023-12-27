@@ -29,7 +29,7 @@ twitter_username:
 github_username:  grantharatna
 
 # Build settings
-remote-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
