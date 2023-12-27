@@ -29,10 +29,9 @@ twitter_username:
 github_username:  grantharatna
 
 # Build settings
-remote-theme: pages-theme/cayman@v0.2.0
+remote-theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
