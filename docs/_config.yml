@@ -21,7 +21,7 @@
 title: grantharatna - Jewels of Books
 email: amiteshm0101@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description for google search results display
+  Homepage for the grantharatna project; empowering everyone with the quest for knowledge.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grantharatna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
