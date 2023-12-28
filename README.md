@@ -1,2 +1,2 @@
 # grantharatna.github.io
-Homepage for the grantharatna project
+Homepage for the GranthaRatna project
