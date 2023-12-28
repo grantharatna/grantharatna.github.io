@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to our literary haven! We are a passionate team, led by Amitesh and Sujatro, students of the Cluster Innovation Centre at the University of Delhi, dedicated to making a meaningful impact on the lives of underprivileged children through the magic of books. Here's a glimpse into who we are and what drives us:
+Welcome to our literary haven! We are a passionate team, started by Amitesh and Sujatro, students of the Cluster Innovation Centre at the University of Delhi, dedicated to making a meaningful impact on the lives of underprivileged children through the magic of books. Here's a glimpse into who we are and what drives us:
 
 ### Our Mission:
 
@@ -32,5 +32,4 @@ Whether you're a book lover, a community enthusiast, or someone passionate about
 
 Thank you for being a part of our literary adventure!
 
-[Your Name]  
-Founder, [Project Name]
+Team GranthaRatna
